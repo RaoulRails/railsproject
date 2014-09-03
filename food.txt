@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 1-Lasane
 2-pizza tommo
 4.Supe
+=======
+1-Lasa
+2-pizza tommo
+3-Schnitzel mit pomme
+4.Suppe
+>>>>>>> 04f3df07d71939a4e75a5d58cacba3c97f4318b3
